@@ -1,0 +1,25 @@
+{
+  "name": "git-init-cli",
+  "version": "1.0.0",
+  "description": "To create git repo from terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melitus/git-init-cli.git"
+  },
+  "keywords": [
+    "Git",
+    "CLI",
+    "Terminal",
+    "Github"
+  ],
+  "author": "Sunday Aroh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melitus/git-init-cli/issues"
+  },
+  "homepage": "https://github.com/melitus/git-init-cli#readme"
+}
